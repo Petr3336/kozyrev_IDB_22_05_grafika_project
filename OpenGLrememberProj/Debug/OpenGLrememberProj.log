@@ -1,0 +1,14 @@
+﻿  Render.cpp
+C:\Users\petrp\Documents\Институт 2023\Второе полугодие\Компьютерная графика\Лаба 2\OpenGLrememberProj\MyOGL.h(164,40): warning C4309: =: усечение константного значения
+  (компиляция исходного файла "Render.cpp")
+  
+C:\Users\petrp\Documents\Институт 2023\Второе полугодие\Компьютерная графика\Лаба 2\OpenGLrememberProj\Render.cpp(116,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\petrp\Documents\Институт 2023\Второе полугодие\Компьютерная графика\Лаба 2\OpenGLrememberProj\Render.cpp(134,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\petrp\Documents\Институт 2023\Второе полугодие\Компьютерная графика\Лаба 2\OpenGLrememberProj\Render.cpp(207,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\petrp\Documents\Институт 2023\Второе полугодие\Компьютерная графика\Лаба 2\OpenGLrememberProj\Render.cpp(224,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\petrp\Documents\Институт 2023\Второе полугодие\Компьютерная графика\Лаба 2\OpenGLrememberProj\Render.cpp(339,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\petrp\Documents\Институт 2023\Второе полугодие\Компьютерная графика\Лаба 2\OpenGLrememberProj\Render.cpp(364,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\petrp\Documents\Институт 2023\Второе полугодие\Компьютерная графика\Лаба 2\OpenGLrememberProj\Render.cpp(474,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\petrp\Documents\Институт 2023\Второе полугодие\Компьютерная графика\Лаба 2\OpenGLrememberProj\Render.cpp(474,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\petrp\Documents\Институт 2023\Второе полугодие\Компьютерная графика\Лаба 2\OpenGLrememberProj\Render.cpp(474,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+  OpenGLrememberProj.vcxproj -> C:\Users\petrp\Documents\Институт 2023\Второе полугодие\Компьютерная графика\Лаба 2\Debug\OpenGLrememberProj.exe
